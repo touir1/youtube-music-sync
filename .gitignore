@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pycharm
+.idea/
+
+# specific to project
+songs/
+downloaded_songs.txt
